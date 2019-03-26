@@ -9,5 +9,6 @@
     <StackPanel>
         <TextBox x:Name="txtIn"></TextBox>
         <Button x:Name="btnAge" Click="btnAge_Click">Calculate Age</Button>
+        <Label x:Name="lblOut"></Label>
     </StackPanel>
 </Window>
